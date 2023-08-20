@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "test": "npx jest"
+  },
   "devDependencies": {
     "@types/jest": "^29.5.3",
     "@types/json-bigint": "^1.0.1",
